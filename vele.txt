@@ -1,0 +1,35 @@
+Press enter to submit commands
+
+> git init 
+
+$ git status
+
+$ git status
+
+$ git add octocat.txt
+
+$ git status
+
+$ git commit -m "Comentario sobre como add coments"
+
+$ git add '*.txt'
+
+$ git commit -m "Comentarios para todos los txt"
+
+$ git log
+
+$ git remote add origin https://github.com/try-git/try_git.git
+
+$ git push -u origin master
+
+$ git pull origin master
+
+$ git diff HEAD
+
+$ git add octofamily/octodog.txt
+
+$ git diff --staged
+
+$ git reset octofamily/octodog.txt
+
+$ 
